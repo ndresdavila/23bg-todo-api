@@ -8,7 +8,7 @@ This project is a RESTful API to manage a list of tasks using FastAPI and SQLite
 
 ## **Instalation**
 1. Clone this repository:
-   git clone <URL_DEL_REPOSITORIO>
+   git clone [https://github.com/ndresdavila/23bg-todo-api.git](https://github.com/ndresdavila/23bg-todo-api.git)
    cd todo-api
 
 2. Create and activate a virtual environment:
